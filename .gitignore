@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# YOLO Model
+*.pt
+
+# Videos
+videos/*.mp4
+
+# Output files
+outputs/
+
+# macOS
+.DS_Store
